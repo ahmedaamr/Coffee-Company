@@ -1,0 +1,178 @@
+*
+{
+	margin: 0px;
+	padding: 0px;
+}
+.boody
+{
+	background-color: #91022e;
+
+
+	
+}
+.header
+{
+	height: 50px;
+	background-color: #5d301b;
+	width: 100%;
+	padding-bottom: 20px;
+}
+.list li
+{
+	display: inline;
+	list-style: none;
+	padding: 20px;
+	padding-top: 20px;
+	margin-top: 10px;
+
+}
+.list a
+{
+	color: #91022e;
+	font-size: 30px;
+	font-weight: bold;
+	text-decoration: none;
+	margin: 20px;
+	padding: 40px;
+	margin-top:30px;
+}
+.header ul li :hover
+{
+	background: #5E2727;
+	transition: linear all 0.40s;
+	margin-top: 10px ;
+
+}
+
+.item
+{
+	padding-top: 20px;
+	background-image:url('../images/20.jpg');
+	background-size:  cover;
+	background-repeat: no-repeat;
+	height: 700px;
+	width: 100%;
+	
+	margin-bottom: 40px;
+	
+	
+}
+.item h1
+{
+	text-align: center;
+	color: #91022e;
+	font-size: 35px;
+	font-weight: bold;
+	padding-bottom: 40px;
+	padding-top: 30px;
+}
+.item p
+{
+	text-align: center;
+	color: #91022e;
+	font-size: 28px;
+	font-weight: bold;
+}
+
+.item2
+{
+	height: 800px;
+	width: 100%;
+	
+}
+.item2 h1
+{
+	color: white;
+	text-align: center;
+	font-size: 40px;
+	margin: 50px;
+	padding-top: 50px;
+}
+.item2 p
+{
+	font-size: 20px;
+	color: white;
+	text-align: center;
+	padding-top: 250px;
+	
+	margin: 50px;
+}
+
+.item3
+{
+	height: 800px;
+	width: 100%;
+	margin-bottom: 50px;
+}
+
+.item3 h1
+{
+	color: white;
+	text-align: center;
+	font-size: 40px;
+	margin: 50px;
+	padding-top: 50px;
+}
+.item3 ul
+{
+	padding-left: 90px;
+}
+.item3 li
+{
+	font-size: 20px;
+	color: white;
+	text-align: left;
+	padding-top: 20px;
+	
+	margin: 50px;
+}
+
+.item3 a
+{
+	text-decoration: none;
+	padding-left: 43%;
+	font-size: 30px;
+	color: white;
+}
+.item4
+{
+	height: 800px;
+	width: 100%;
+	margin-top: 200px;
+}
+.item4 h1
+{
+	text-align: center;
+	color: white;
+	font-size: 30px;
+	padding-bottom: 120px;
+	padding-top: 50px;
+}
+.item4 .map
+{
+	padding-left:30%;
+	margin-bottom: 90px;
+}
+
+.footer
+{
+	height: 100px;
+	background-color: #5d301b;
+	width: 100%; 
+}
+.footer h2
+{
+	text-align: left;
+	color: white;
+	padding-bottom: 20px;
+}
+.footer a
+{
+	margin-top: 20px;
+	margin: 60px;
+	text-decoration: none;
+	color: #91022e;
+	font-size: 20px;
+	font-weight: bold;
+
+}
